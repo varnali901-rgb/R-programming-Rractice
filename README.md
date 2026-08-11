@@ -10,6 +10,7 @@ This repository contains my practice programs I wrote while learning R-programmi
 -Arithmetic operators
 -Accumulators
 -Loops
+-Vectors
 
 ##Concepts covered
 -Variable names, assignment and updating
@@ -21,6 +22,9 @@ This repository contains my practice programs I wrote while learning R-programmi
 -Consideration of all possible scenarios related to the program's topic
 -Correct use of sperators
 -Indenting the program for easier organisation and error reduction
+-finding the length of vectors
+-Changing a number's position or its value from its position in a vector.
+-Vectorised operations
 
 ##Programs
 -Grade Calculator 
@@ -31,6 +35,9 @@ This repository contains my practice programs I wrote while learning R-programmi
 -Sum of numbers from 1 to 100
 -Entering numerical inputs and the program ends when 0 is the input number
 -Multiplication table for 12
+-Finding the length of a vector
+-Changing a number in a vector
+-Printing a specific number in a vector
 
 ##Author
 Varnali Verma
