@@ -1,0 +1,5 @@
+num=c(10,40,56,78,91,26,59,90,45,80)
+a=sort(marks)
+cat("MARKS IN THE ASCENDING ORDER:",a)
+b=sort(decreasing=TRUE,marks)
+cat("\nMARKS IN THE DESCENDING ORDER:",b)
