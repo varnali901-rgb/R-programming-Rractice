@@ -51,6 +51,9 @@ Vectors
    • Finding the length of a vector
    • Changing a number in a vector
    • Printing a specific number in a vector
+   • Passing Percentage of the marks of 10 students (average)
+   • Arranging initialised marks in Ascending and Descending order
+   
 
    
 
