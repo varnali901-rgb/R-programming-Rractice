@@ -1,0 +1,5 @@
+vector=seq(from=1,to=25,by=1)
+m=matrix(vector,nrow=5,ncol=5,byrow=TRUE)
+print(m)
+sum=sum(m[1,]) + sum(m[2:2,c(1,5)]) + sum(m[3:3,c(1,5)]) + sum(m[4:4,c(1,5)]) + sum(m[5,])
+cat("SUM OF BOUNDARY ELEMENTS =",sum)
