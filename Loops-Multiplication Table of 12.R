@@ -1,3 +1,4 @@
+num=12
 for(i in 1:10){
-print(i*12)
+ cat("\n",num,"x",i,"=",num*i)
 }
