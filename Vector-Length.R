@@ -1,2 +1,3 @@
 numbers=c(34,12,4,78,42,54)
-length(numbers)
+a=length(numbers)
+print(a)
