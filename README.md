@@ -65,8 +65,8 @@ I am using this repository to practice programming and understanding how the cod
    ☑ Conditional statements
    ☑ Loops
    ☑ Vectors
+   ☑ Matrices
    ☐ Functions
-   ☐ Matrices
    ☐ Data frames
    
 
