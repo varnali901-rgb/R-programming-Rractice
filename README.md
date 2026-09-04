@@ -40,19 +40,35 @@ Vectors
    • Vectorised operations
 
 💻 Programs
-   • Grade calculator
-   • To check whether a number is odd or even
-   • To know the type of a triangle with the sum of initialised angles
-   • To know the type of triangle with the sum of angles, but the angles can be       added as the input by the user
-   • Calculation of factorial values using loops
-   • Sum of numbers from 1 to 100
-   • Entering numerical inputs and the program ends when 0 is the input number
-   • Multiplication table
-   • Finding the length of a vector
-   • Changing a number in a vector
-   • Printing a specific number in a vector
-   • Passing Percentage of the marks of 10 students (average)
-   • Arranging initialised marks in Ascending and Descending order
+   
+   • Conditional Statements-Type of Triangle-Interior Angles (angles initialised).R
+   • Conditional Statements-Type of Triangle-Input the Angles.
+   
+   • Loops and Conditional Statements-Grade Calculator.R
+   
+   • Loops-Even or Odd Number Differentiation.R
+   • Loops-Calculating 10!.R
+   • Loops-Sum of Numbers from 1 to 100.R
+   • Loops-Numerical Input and Termination.R
+   • Loops-Multiplication table of 12.R
+   • Loops-Sum of Series (3).R
+   • Loops-Sum of Series [x-x^2+x^3-X^4...x^n].R
+   • Loops-Sum of a Series [x+x^2+x^3+...x^n].R
+   
+   • Vectors-Length of a Vector.R
+   • Vectors-Changing a Number.R
+   • Vectors-Printing a Specific Number.R
+   • Vectors-Pass Percentage of 10 Students.R
+   • Vectors-Ascending and Descending Order.R
+   • Vectors-Countries in a Vector.R
+
+   • Matrices-Conditional Row Extraction.R
+   • Matrices-Subset Extraction.R
+   • Matrices-Sum of Boundary Elements.R
+   • Matrices-Sum of Non-boundary Elements.R
+   • Matrices-Sum of Diagonal Elements.R
+   • Matrices-Sum of Non-diagonal Elements.R
+   
    
 
    
