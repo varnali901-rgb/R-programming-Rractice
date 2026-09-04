@@ -68,6 +68,9 @@ Vectors
    • Matrices-Sum of Non-boundary Elements.R
    • Matrices-Sum of Diagonal Elements.R
    • Matrices-Sum of Non-diagonal Elements.R
+
+   • Data Frames-Employee Net Salary.R
+   • Data Frames-Employee Leave Salary Calculation.R
    
    
 
@@ -82,8 +85,8 @@ I am using this repository to practice programming and understanding how the cod
    ☑ Loops
    ☑ Vectors
    ☑ Matrices
+   ☑ Data frames
    ☐ Functions
-   ☐ Data frames
    
 
 🔮 Future Plans
