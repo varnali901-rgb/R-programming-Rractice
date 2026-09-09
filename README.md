@@ -74,6 +74,7 @@ Vectors
 
    • Data Frames-Employee Net Salary.R
    • Data Frames-Employee Leave Salary Calculation.R
+   • Data Frames-Student Qualification Based on Scores.R
    
    
 
