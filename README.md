@@ -34,10 +34,11 @@ Loops
 
 Vectors
    • Creating vectors
-   •  Finding the length of a vector
+   • Finding the length of a vector
    • Indexing
    • Modifying elements
    • Vectorised operations
+   
 
 💻 Programs
    
@@ -45,6 +46,8 @@ Vectors
    • Conditional Statements-Type of Triangle-Input the Angles.
    
    • Loops and Conditional Statements-Grade Calculator.R
+   • Loops and Matrices-Sum of Non-diagonal Elements(Alternate Method).R
+   • Loops and Vectors-Average Age.R
    
    • Loops-Even or Odd Number Differentiation.R
    • Loops-Calculating 10!.R
