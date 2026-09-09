@@ -1,0 +1,15 @@
+age = c(12,16,18,30,22,45,21,44,37,28)
+
+age_sum = 0
+count = 0
+
+for(i in 1:length(age)){
+    if(age[i] >= 18){
+        age_sum = age_sum + age[i]
+        count = count + 1
+    }
+}
+
+average = age_sum / count
+
+cat("AVERAGE AGE =", average)
