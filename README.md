@@ -38,6 +38,8 @@ Vectors
    • Indexing
    • Modifying elements
    • Vectorised operations
+Functions
+   • Creating a new function
    
 
 💻 Programs
@@ -76,6 +78,8 @@ Vectors
    • Data Frames-Employee Leave Salary Calculation.R
    • Data Frames-Student Qualification Based on Scores.R
    
+   • Functions-Creation of a new function.R
+   
    
 
    
@@ -90,7 +94,7 @@ I am using this repository to practice programming and understanding how the cod
    ☑ Vectors
    ☑ Matrices
    ☑ Data frames
-   ☐ Functions
+   ☑ Functions
    
 
 🔮 Future Plans
